@@ -99,8 +99,9 @@ reports/ -> Project deliverables
 
 ## Authors
 
-- Santiago Beltrán López  
-- Mariana Rodríguez Velandia  
+- Santiago Beltrán López
+- Hernán Manuel Manrique 
+- Mariana Rodríguez Velandia
 
 ---
 
